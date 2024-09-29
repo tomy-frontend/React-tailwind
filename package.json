@@ -5,14 +5,12 @@
   "type": "module",
   "homepage": "https://tomy-frontend.github.io/React-tailwind",
   "scripts": {
-    "dev": "vite",
+    "start": "react-scripts start",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "rm": "rimraf docs",
-    "mv": "mv build docs",
+    "mv": "mv dist docs",
     "git": "git add . && git commit -m \"Update build\" && git push origin main",
     "deploy": "npm run rm && npm run build && npm run mv && npm run git"
   },
@@ -33,6 +31,7 @@
     "eslint-plugin-react-refresh": "^0.4.9",
     "globals": "^15.9.0",
     "postcss": "^8.4.47",
+    "rimraf": "^6.0.1",
     "tailwindcss": "^3.4.13",
     "vite": "^5.4.1"
   }
