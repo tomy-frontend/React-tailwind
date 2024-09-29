@@ -5,11 +5,11 @@
   "type": "module",
   "homepage": "https://tomy-frontend.github.io/React-tailwind",
   "scripts": {
-    "start": "react-scripts start",
+    "dev": "vite",
     "build": "vite build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "rm": "rimraf docs",
+    "rm": "rm -rf docs",
     "mv": "mv dist docs",
     "git": "git add . && git commit -m \"Update build\" && git push origin main",
     "deploy": "npm run rm && npm run build && npm run mv && npm run git"
