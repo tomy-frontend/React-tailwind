@@ -1,2 +1,3 @@
 # React-tailwind
-ReactとtailwindCSSを使用して作成したデモサイトです。
+
+React と tailwindCSS を使用して作成したデモサイトです。
