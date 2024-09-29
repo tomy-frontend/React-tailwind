@@ -32,7 +32,7 @@ function App() {
               <br />
               Im Tommy!!
               <br />
-              Web Engineer
+              Web Engineer!
             </h1>
             <p className="mt-4 leading-relaxed">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab,
@@ -50,7 +50,7 @@ function App() {
           {/* 右側 */}
           <div className="md:w-1/2  mt-16 md:mt-0 flex-grow">
             <img
-              src="./img/img_me.webp"
+              src="./img/img_mine.webp"
               alt="アイコン"
               width="5000"
               height="3334"
@@ -267,8 +267,11 @@ function App() {
           {/* left side */}
           <div className="w-full lg:w-1/2 flex justify-center">
             <img
-              src="./img/img_pc.jpg"
+              src="./img/img_pc.webp"
               alt="パソコン"
+              width="3840"
+              height="2400"
+              loading="lazy"
               className="rounded object-cover"
             />
           </div>
