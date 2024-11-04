@@ -5,7 +5,7 @@ const Header = () => (
         href="/"
         className="font-medium text-gray-900 hover:text-blue-400 duration-300"
       >
-        <span className="text-xl">Tommy-React</span>
+        <span className="text-xl">TommyReactBlog</span>
       </a>
       <nav className="md:ml-auto text-base mt-4 md:mt-0 grid grid-flow-col gap-3">
         <a href="#home" className="hover:text-blue-400 duration-300">

@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Header from "./component/header";
 import Footer from "./component/footer";
 
@@ -304,7 +303,7 @@ function App() {
                   className="bg-green-600 text-xs leading-none py-1 text-center text-white"
                   style={{ width: "10%" }}
                 >
-                  10%
+                  40%
                 </div>
               </div>
             </div>
