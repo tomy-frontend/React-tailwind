@@ -64,30 +64,11 @@ function App() {
             </p>
             <p className="pb-10">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Reprehenderit suscipit vero praesentium nisi dignissimos atque vel
-              cum, earum veniam eius quis veritatis deserunt molestiae dicta
-              esse recusandae quod porro rerum sunt ratione laudantium neque
-              fugit accusamus? Dolores adipisci animi molestias provident modi
-              at qui, ea dolor ducimus vitae harum quam magni exercitationem
-              excepturi ratione quaerat, aut voluptatum iste quod repellat
-              repellendus cumque rem incidunt? Exercitationem, amet. Aut
-              nostrum, ipsam consectetur officiis et accusantium aliquid
-              quisquam debitis quae totam iusto assumenda nam provident eveniet
-              facilis eligendi excepturi laboriosam obcaecati. Nesciunt dicta
-              rerum obcaecati aspernatur sit repellat velit doloremque eos
-              perferendis! Laborum quo eligendi odio sit reprehenderit numquam
-              repellendus molestiae commodi a autem fuga placeat, voluptas qui
-              sequi ad! In iste tempora temporibus blanditiis sequi accusantium,
-              voluptatum recusandae natus placeat eius voluptatem. Eaque aut
-              possimus corporis ullam reiciendis, corrupti enim velit beatae
-              laboriosam numquam ex soluta ratione porro voluptate. Voluptas
-              corrupti iure, veritatis quo minus porro earum vel ex obcaecati,
-              laudantium id fugiat labore perferendis hic iste quibusdam cum!
-              Possimus assumenda sint accusamus quo impedit velit explicabo,
-              consequuntur consectetur voluptatum praesentium nobis enim
-              excepturi eligendi, quod fugiat quaerat porro suscipit omnis!
-              Soluta perferendis, neque exercitationem similique amet ex vero
-              illum assumenda quam?
+              Recusandae, harum suscipit illo vero nemo distinctio nesciunt
+              impedit quidem dolor eius, voluptas sunt saepe iure possimus non
+              iste deleniti facere eos esse rem quia quis fugiat est! Voluptatum
+              corporis unde minus voluptatibus, natus numquam excepturi quasi
+              repudiandae maxime iure corrupti sit.
             </p>
           </div>
 
@@ -156,7 +137,7 @@ function App() {
               <div className="shadow bg-green-100 mt-2 w-full">
                 <div
                   className="bg-green-600 text-xs leading-none py-1 text-center text-white"
-                  style={{ width: "10%" }}
+                  style={{ width: "40%" }}
                 >
                   40%
                 </div>
