@@ -34,7 +34,7 @@ function Article() {
                   />
                 </svg>
               </div>
-              <h2 className="text-gray-900 text-lg fotn-medium ml-2">
+              <h2 className="text-gray-900 text-lg font-medium ml-2">
                 {info.name}
               </h2>
             </header>
