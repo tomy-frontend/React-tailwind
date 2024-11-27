@@ -8,7 +8,6 @@ function App() {
       <Header />
       <section className="text-gray-700" id="home">
         <div className="flex container mx-auto py-20 px-5 flex-col md:flex-row items-center">
-          {/* 左側 */}
           <div className="md:w-1/2 flex-grow lg:pr-24 md:p-8 lg:p-16 text-center md:text-left">
             <h1 className="text-3xl sm:text-6xl text-gray-900 font-medium">
               Hello!!
@@ -30,7 +29,7 @@ function App() {
               Contact
             </a>
           </div>
-          {/* 右側 */}
+
           <div className="md:w-1/2  mt-16 md:mt-0 flex-grow">
             <img
               src="./img/img_mine.webp"
@@ -72,7 +71,6 @@ function App() {
             </p>
           </div>
 
-          {/* カード全体*/}
           <div className="mt-20 flex flex-wrap">
             <Article />
           </div>
@@ -80,7 +78,6 @@ function App() {
       </section>
       <section className="text-gray-700" id="skills">
         <div className="container px-5 py-24 mx-auto flex flex-wrap">
-          {/* left side */}
           <div className="w-full lg:w-1/2 flex justify-center">
             <img
               src="./img/img_pc.webp"
@@ -91,7 +88,7 @@ function App() {
               className="rounded object-cover"
             />
           </div>
-          {/* right side */}
+
           <div className="md:pl-12 md:py-6 w-full lg:w-1/2 mt-10 lg:mt-0 lg:text-left">
             <h2 className="text-2xl sm:text-3xl font-medium text-gray-900">
               My Skills
