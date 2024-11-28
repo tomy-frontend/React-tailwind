@@ -134,9 +134,9 @@ function App() {
               <div className="shadow bg-green-100 mt-2 w-full">
                 <div
                   className="bg-green-600 text-xs leading-none py-1 text-center text-white"
-                  style={{ width: "40%" }}
+                  style={{ width: "50%" }}
                 >
-                  40%
+                  50%
                 </div>
               </div>
             </div>
