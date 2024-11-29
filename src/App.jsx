@@ -116,9 +116,9 @@ function App() {
               <div className="shadow bg-green-100 mt-2 w-full">
                 <div
                   className="bg-green-600 text-xs leading-none py-1 text-center text-white"
-                  style={{ width: "60%" }}
+                  style={{ width: "65%" }}
                 >
-                  60%
+                  65%
                 </div>
               </div>
               <h3 className="mt-5">PHP</h3>
