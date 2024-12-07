@@ -1,7 +1,7 @@
+import ArrowOutwardIcon from "@mui/icons-material/ArrowOutward";
 import Header from "./component/header";
 import Footer from "./component/footer";
 import Article from "./component/Article";
-import ArrowOutwardIcon from "@mui/icons-material/ArrowOutward";
 import Skills from "./component/Skills";
 
 function App() {
