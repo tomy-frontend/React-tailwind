@@ -1,6 +1,8 @@
 import Header from "./component/header";
 import Footer from "./component/footer";
 import Article from "./component/Article";
+import ArrowOutwardIcon from "@mui/icons-material/ArrowOutward";
+import Skills from "./component/Skills";
 
 function App() {
   return (
@@ -24,9 +26,10 @@ function App() {
             <a
               href="https://tomy-dev.com/contact/"
               target="blank"
-              className="mt-8 text-white bg-green-400 py-2 px-6 border-0 rounded text-lg hover:bg-green-600 duration-300 inline-block"
+              className="mt-8 text-white bg-green-400 py-2 px-6 border-0 rounded text-lg hover:bg-green-600 duration-300 inline-flex items-center"
             >
               Contact
+              <ArrowOutwardIcon className="ml-2" />
             </a>
           </div>
 
@@ -93,53 +96,7 @@ function App() {
             <h2 className="text-2xl sm:text-3xl font-medium text-gray-900">
               My Skills
             </h2>
-            <div className="mt-10 w-full">
-              <h3>HTML</h3>
-              <div className="shadow bg-green-100 mt-2 w-full">
-                <div
-                  className="bg-green-600 text-xs leading-none py-1 text-center text-white"
-                  style={{ width: "90%" }}
-                >
-                  90%
-                </div>
-              </div>
-              <h3 className="mt-5">CSS</h3>
-              <div className="shadow bg-green-100 mt-2 w-full">
-                <div
-                  className="bg-green-600 text-xs leading-none py-1 text-center text-white"
-                  style={{ width: "85%" }}
-                >
-                  85%
-                </div>
-              </div>
-              <h3 className="mt-5">JavaScript</h3>
-              <div className="shadow bg-green-100 mt-2 w-full">
-                <div
-                  className="bg-green-600 text-xs leading-none py-1 text-center text-white"
-                  style={{ width: "68%" }}
-                >
-                  68%
-                </div>
-              </div>
-              <h3 className="mt-5">PHP</h3>
-              <div className="shadow bg-green-100 mt-2 w-full">
-                <div
-                  className="bg-green-600 text-xs leading-none py-1 text-center text-white"
-                  style={{ width: "60%" }}
-                >
-                  60%
-                </div>
-              </div>
-              <h3 className="mt-5">React</h3>
-              <div className="shadow bg-green-100 mt-2 w-full">
-                <div
-                  className="bg-green-600 text-xs leading-none py-1 text-center text-white"
-                  style={{ width: "60%" }}
-                >
-                  60%
-                </div>
-              </div>
-            </div>
+            <Skills />
           </div>
         </div>
       </section>
