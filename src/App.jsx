@@ -19,9 +19,8 @@ function App() {
               Web Engineer!!
             </h1>
             <p className="mt-4 leading-relaxed">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab,
-              voluptate tempora voluptatum similique esse vero magnam at quia
-              corporis possimus!
+              Thanks for looking, this is a portfolio site that also serves as
+              my React learning output!
             </p>
             <a
               href="https://tomy-dev.com/contact/"
