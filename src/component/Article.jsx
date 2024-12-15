@@ -4,7 +4,7 @@ import ArrowOutwardIcon from "@mui/icons-material/ArrowOutward";
 const infoArray = [
   {
     name: "Web Developer",
-    text: "デザインカンプからのコーディング、WordPress構築・改修・React,Next.jsを使用したサイト制作などが対応可能です。",
+    text: "デザインカンプからのコーディング、WordPress構築・改修・React,Next.jsを使用したサイト構築などが対応可能です。",
   },
   {
     name: "Web Designer",
