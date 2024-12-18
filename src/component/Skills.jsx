@@ -19,7 +19,7 @@ const skillsArray = [
   },
   {
     name: "JavaScript",
-    percent: "70%",
+    percent: "75%",
     icon: <IoLogoJavascript />,
     iconColor: "#F7DF1E",
   },
